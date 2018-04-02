@@ -1,2 +1,2 @@
 # myFirstGit
-Some Git
+Some Git -- a line in branch1
