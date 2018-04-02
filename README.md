@@ -1,2 +1,2 @@
 # myFirstGit
-Some Git
+Some Git -- added a line in master
