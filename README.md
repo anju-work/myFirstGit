@@ -1,2 +1,2 @@
 # myFirstGit
-Some Git -- MMM
+Some Git -- resolved conflict
